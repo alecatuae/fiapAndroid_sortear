@@ -54,12 +54,12 @@ public class MainActivity extends AppCompatActivity {
                         case 6:
                             image.setImageResource(R.drawable.dado6);
                             break;
-                        default:
-                            image.setImageResource(R.drawable.dado1);
-                            break;
-
+//                        default:
+//                            image.setImageResource(R.drawable.dado1);
+//                            break;
+//
                     }
-                
+
             };
 
         });
